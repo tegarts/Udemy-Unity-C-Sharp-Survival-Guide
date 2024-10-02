@@ -4,5 +4,14 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/13. Enums/130 Casting enum to int/Easy.unity
+    guid: 54cd36d097d04a591b9aaf0a5e5bbd4a
+  - enabled: 1
+    path: Assets/13. Enums/130 Casting enum to int/Normal.unity
+    guid: 8de56b246450970b3ac6602961a280f2
+  - enabled: 1
+    path: Assets/13. Enums/130 Casting enum to int/Hard.unity
+    guid: 302f05762e00f090f86e367c4f914d66
   m_configObjects: {}
